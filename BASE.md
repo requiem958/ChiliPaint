@@ -2,7 +2,7 @@
 
 Ce qu'on doit implémenter en premier :
 
-- [ ] Installer la SFML [[https://www.sfml-dev.org/tutorials/2.5/][site sfml]]
+- [ ] Installer la SFML [[ https://www.sfml-dev.org/tutorials/2.5/ ] [site sfml]]
 - [ ] Librairie SFML à apprendre _Tout le monde_
 - [ ] Affichage du terrain _Stephen et Laura_
 - [ ] Affichage des bonhommes _Stephen et Laura_
