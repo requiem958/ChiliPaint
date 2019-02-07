@@ -13,3 +13,4 @@ Ce qu'on doit implémenter en premier :
 - [ ] Sprites de personnages (1 haricot) _Laura_
 - [ ] Plein écran && fenêtré
 - [ ] Une unique fenêtre
+- [ ] Moyen de logger les erreurs (avec niveaux et tout)
