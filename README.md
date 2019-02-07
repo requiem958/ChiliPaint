@@ -2,6 +2,15 @@
 
 Projet de jeu en 2D
 
+## Concept du jeu
+
+Dans un univers apocalyptique où le chili est maître et où les hommes ne sont plus que des boites de conserves vides …… Ce jeu ne se déroule pas.
+
+Incarnez de fiers haricots prêts à tout pour mettre leur sauce partout !
+Chacun de vous a une couleur, un pinceau et …… c'est tout.
+Vous vous battez pour avoir le plus de surface de votre couleur, des bonis vous aideront !
+
+
 ## Idées en vrac
 
 1) Les joueurs
